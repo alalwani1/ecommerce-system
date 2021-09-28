@@ -1,10 +1,9 @@
-##Task : API Development
+## Task : API Development
 Must Use : NodeJS, ExpressJS, Mongodb
-Duration : till 16th September
 
-##Note: Please scroll down for additional information for Rest APIs
+## Note: Please scroll down for additional information for Rest APIs
 
-##Schema:
+## Schema:
 
 Product :
 - To store all the product details
@@ -27,7 +26,7 @@ Shirts,
 T-shirts; T-shirts would have Round-neck, Full-sleeve etc. till n
 levels]
 
-##API:
+## API:
 
 1. List Categories
 Input : parent
@@ -57,7 +56,7 @@ shirt; Category hierarchy would be like "Men's > Topwear >
 T-shirts >
 Round-neck Tshirts"
 
-##Bonus task :
+## Bonus task :
 
 - Use pagination for list products API [Onscroll pagination with
 next
@@ -69,7 +68,7 @@ pointer]
 update
 API to change that ]
 
-##Bonus++ :
+## Bonus++ :
 
 - Instead of numbers, use capital alphabets for generating tag_id
 i.e. it goes like A, B, C... Z, AA, AB, AC, ... , AZ, BA, BB, ...
@@ -78,10 +77,9 @@ BZ,
 
 
 
-##[Added by Amit]
-##REST API Additional Information:
+## REST API Additional Information:
 
-##1. home page:   
+## 1. home page:   
 	Rest API:   GET http://localhost:5000/api/v1.0/
 	
 	o/p:    
@@ -91,8 +89,8 @@ BZ,
 	}
 
 
-##2. List all Products(with pagination): 
-	Rest API:  GET http://localhost:5000/api/v1.0/products?page=1&limit=4
+## 2. List all Products(with pagination): 
+Rest API:  GET http://localhost:5000/api/v1.0/products?page=1&limit=4
 	
 	o/p:
 		{
@@ -125,8 +123,8 @@ BZ,
 		    ]
 		}
 
-##3. Get Product Details:
-	In this Rest API, slug appended as params in url
+## 3. Get Product Details:
+In this Rest API, slug appended as params in url
 
 	Rest API:  GET http://localhost:5000/api/v1.0/products/gucci-1-yellow-mens-cuba-collar-shirt-407644105
 	
@@ -143,9 +141,9 @@ BZ,
 		}
 
 
-##4. List all Categories
+## 4. List all Categories
 
-	Rest API:  GET http://localhost:5000/api/v1.0/categories
+Rest API:  GET http://localhost:5000/api/v1.0/categories
 
 	body:
 		{
@@ -171,9 +169,9 @@ BZ,
 		    ]
 		}
 
-##5. Add product details
+## 5. Add product details
 
-	Rest API: POST http://localhost:5000/api/v1.0/products
+Rest API: POST http://localhost:5000/api/v1.0/products
 
 	body:
 		{
@@ -195,8 +193,8 @@ BZ,
 		    "message": "Product details added successfully!"
 		}
 
-##6. Update product details
-	In this Rest API, slug appended as params in url
+## 6. Update product details
+In this Rest API, slug appended as params in url
 	
 	Rest API:  PUT http://localhost:5000/api/v1.0/products/gucci-1-yellow-mens-cuba-collar-shirt-131599513
 
@@ -222,8 +220,8 @@ BZ,
 	}
 
 
-##7. Add Category
-	Rest API:  POST http://localhost:5000/api/v1.0/categories
+## 7. Add Category
+Rest API:  POST http://localhost:5000/api/v1.0/categories
 
 	body:
 	{
