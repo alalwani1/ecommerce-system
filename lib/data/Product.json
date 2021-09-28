@@ -1,0 +1,172 @@
+{
+    "Products": [
+		{
+			"name": "Air Jordan 1 Mid Ankle Shoes",
+			"description": "A masterPiece",
+			"price": "23467",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Mid Ankle",
+			"masterCategory": "Men's"
+		},
+		{
+			"name": "Gucci 1 Black Mens Full Sleeve shirt",
+			"description": "A masterPiece",
+			"price": "567832",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Full Sleeve",
+			"masterCategory": "Men's"
+		},
+		{
+			"name": "Gucci 1 Black Mens Cuban Collar shirt",
+			"description": "A masterPiece",
+			"price": "134721",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Cuban Collar",
+			"masterCategory": "Men's"	
+		},
+		{
+			"name": "H&M 1 Blue Mens Round-neck T-Shirt",
+			"description": "A masterPiece",
+			"price": "12131",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Round-neck",
+			"masterCategory": "Men's"
+		},
+		{
+			"name": "Prada 1 White Mens polo Shirts",
+			"description": "A masterPiece",
+			"price": "98764",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Polo",
+			"masterCategory": "Men's"
+		},
+		{
+			"name": "H&M 1 Red Mens Jeans",
+			"description": "A masterPiece",
+			"price": "98765432",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Jeans",
+			"masterCategory": "Men's"	
+		},
+		{
+			"name": "Peter England 1 Black Mens Bell-bottoms",
+			"description": "A masterPiece",
+			"price": "235781",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Bell-bottoms",
+			"masterCategory": "Men's" 	
+		},
+		{
+			"name": "Zara 1 Blue Womens Polo Shirt",
+			"description": "A masterPiece",
+			"price": "9753257",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Polo",
+			"masterCategory": "Women's"	
+		},
+		{
+			"name": "Lilly Pulitzer 1 Purple Womens Collar Dress",
+			"description": "A masterPiece",
+			"price": "23467",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Collar Dress",
+			"masterCategory": "Women's"	
+		},
+		{
+			"name": "Levi’s 1 Red Womens Casual Shirt",
+			"description": "A masterPiece",
+			"price": "47912",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Casual",
+			"masterCategory": "Women's"
+		},
+		{
+			"name": "Bonpoint 1 Brown Womens Round-neck T-Shirt",
+			"description": "A masterPiece",
+			"price": "19251",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Round-neck",
+			"masterCategory": "Women's"
+		},
+		{
+			"name": "Justice 1 Blue Womens Punjabi Salwar",
+			"description": "A masterPiece",
+			"price": "193210",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Punjabi",
+			"masterCategory": "Women's"
+		},
+		{
+			"name": "Crazy 1 Green Womens Palazzzo",
+			"description": "A masterPiece",
+			"price": "65391",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Palazzzo",
+			"masterCategory": "Women's"	
+		},
+		{
+			"name": "Cherokee 1 Pink Womens Lehenga",
+			"description": "A masterPiece",
+			"price": "103210",
+			"images": [
+				"image1",
+				"image2",
+				"image3"
+			],
+			"category": "Lehenga",
+			"masterCategory": "Women's"	
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+    "Categories": [
+        {
+            "Clothes": [
+                {
+                    "Men's": [
+                        {
+                            "Topwear": [
+                                {
+                                    "Shirts": [
+                                            "Polo",
+                                            "Cuban Collar",
+                                            "Denim",
+                                            "Camp Collared Short Sleeve"
+                                    ],
+                                    "T-Shirts": [
+                                            "Round-neck",
+                                            "Full Sleeve"
+                                    ]    
+                                }
+                            ],
+                            "Bottowear": [
+                                {
+                                    "Pants": [
+                                            "Jeans",
+                                            "Bell-bottoms"
+                                    ]
+                                }
+                            ],
+                            "Footwear": [
+                                {
+                                    "Shoes": [
+                                            "Mid Ankle"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Women's": [
+                        {
+                            "Topwear": [
+                                {
+                                    "Shirts": [
+                                            "Polo",
+                                            "Collar Dress",
+                                            "Casual"
+                                    ],
+                                    "T-Shirts": [
+                                            "Round-neck",
+                                            "Full Sleeve"
+                                    ]    
+                                }
+                            ],
+                            "Bottowear": [
+                                {
+                                    "Pants": [
+                                            "Jeans",
+                                            "Jumpsuits",
+                                            "Bell-bottoms"
+                                    ],
+                                    "Salwars": [
+                                            "Punjabi",
+                                            "Palazzzo",
+                                            "Lehenga"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
