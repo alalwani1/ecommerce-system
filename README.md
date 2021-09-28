@@ -1,9 +1,7 @@
 ## Task : API Development
 Must Use : NodeJS, ExpressJS, Mongodb
 
-## Note: Please scroll down for additional information for Rest APIs
-
-## Schema:
+## Schemas:
 
 Product :
 - To store all the product details
@@ -26,7 +24,7 @@ Shirts,
 T-shirts; T-shirts would have Round-neck, Full-sleeve etc. till n
 levels]
 
-## API:
+## APIs:
 
 1. List Categories
 Input : parent
